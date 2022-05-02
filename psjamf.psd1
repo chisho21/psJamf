@@ -60,7 +60,7 @@
     # TypesToProcess = @()
     
     # Format files (.ps1xml) to be loaded when importing this module
-    FormatsToProcess = @('psjamf.ps1xml')
+    #FormatsToProcess = @('psjamf.ps1xml')
     
     # Modules to import as nested modules of the module specified in RootModule/ModuleToProcess
     # NestedModules = @()
